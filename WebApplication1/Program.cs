@@ -14,8 +14,7 @@ using Repositories.ExRequestRepo;
 using Services.ExRequestSS;
 
 var builder = WebApplication.CreateBuilder(args);
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-builder.WebHost.UseUrls($"http://*:{port}");
+
 
 // Add services to the container.
 builder.Services.AddScoped<IKitService, KitService>();
@@ -62,6 +61,5 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-app.UseHealthChecks("/health");
 
 app.Run();

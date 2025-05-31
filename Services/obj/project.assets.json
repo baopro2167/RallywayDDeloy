@@ -2839,11 +2839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2864,8 +2864,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Repositories\\Repositories.csproj"
+            "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Repositories\\Repositories.csproj"
             }
           }
         }

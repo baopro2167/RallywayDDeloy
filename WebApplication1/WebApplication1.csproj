@@ -11,6 +11,10 @@
 		<NoWarn>$(NoWarn);1591</NoWarn>
 		<UserSecretsId>049e0cec-70fa-4b16-ac2d-d5a62639cd05</UserSecretsId>
 		<DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+		<RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+		<ContainerRuntimeIdentifier>win-x64</ContainerRuntimeIdentifier>
+		<EnableSdkContainerDebugging>True</EnableSdkContainerDebugging>
+		<ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:8.0-nanoserver-1809</ContainerBaseImage>
 	</PropertyGroup>
 
   <ItemGroup>
@@ -33,6 +37,10 @@
 
   <ItemGroup>
     <None Update="..\.dockerignore" Link="docker\.dockerignore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ContainerPort Include="8081" />
   </ItemGroup>
 
 </Project>

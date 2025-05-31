@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mk3z7Mf4ZI=",
+  "dgSpecHash": "uk9xlyeYwNs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

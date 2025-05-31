@@ -1,65 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\docker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\docker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\controllers\\exrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\controllers\\exrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\exrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\webapplication1\\controllers\\samplemethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\documents\\bloodlinedna\\webapplication1\\controllers\\samplemethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74024997-A599-4A5F-A457-5768C43E96E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\samplemethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\services\\kits\\kitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\bloodlinedna\\services\\kits\\kitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|solutionrelative:services\\kits\\kitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\services\\exrequestss\\exrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\bloodlinedna\\services\\exrequestss\\exrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|solutionrelative:services\\exrequestss\\exrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\services\\samplemethodss\\samplemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\bloodlinedna\\services\\samplemethodss\\samplemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|solutionrelative:services\\samplemethodss\\samplemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7984A700-6BC1-4EE1-8B1A-5301891929DD}|Model\\Model.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\model\\examinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7984A700-6BC1-4EE1-8B1A-5301891929DD}|Model\\Model.csproj|c:\\users\\admin\\documents\\bloodlinedna\\model\\examinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7984A700-6BC1-4EE1-8B1A-5301891929DD}|Model\\Model.csproj|solutionrelative:model\\examinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\services\\dto\\addexrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\bloodlinedna\\services\\dto\\addexrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|solutionrelative:services\\dto\\addexrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\services\\dto\\updateexrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\bloodlinedna\\services\\dto\\updateexrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|solutionrelative:services\\dto\\updateexrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391\\bloodlinedna\\services\\exrequestss\\iexrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|c:\\users\\admin\\documents\\bloodlinedna\\services\\exrequestss\\iexrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5066A2A7-66C8-42DF-8DA7-BFE05B072EA4}|Services\\Services.csproj|solutionrelative:services\\exrequestss\\iexrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WebApplication1.http",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\WebApplication1.http",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\WebApplication1.http",
               "RelativeToolTip": "WebApplication1\\WebApplication1.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -115,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -127,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -139,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "railway.toml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\railway.toml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\railway.toml",
               "RelativeDocumentMoniker": "WebApplication1\\railway.toml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\railway.toml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\railway.toml",
               "RelativeToolTip": "WebApplication1\\railway.toml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -151,35 +147,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\docker\\Dockerfile",
-              "RelativeDocumentMoniker": "WebApplication1\\docker\\Dockerfile",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\docker\\Dockerfile",
-              "RelativeToolTip": "WebApplication1\\docker\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-31T08:26:30.23Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Program.cs*",
+              "RelativeToolTip": "WebApplication1\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T07:45:35.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T07:45:35.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ExRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Controllers\\ExRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Controllers\\ExRequestController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ExRequestController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Controllers\\ExRequestController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Controllers\\ExRequestController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\ExRequestController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAQwCsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "SampleMethodController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Controllers\\SampleMethodController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Controllers\\SampleMethodController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SampleMethodController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\WebApplication1\\Controllers\\SampleMethodController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\WebApplication1\\Controllers\\SampleMethodController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\SampleMethodController.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAwwHkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "KitService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\KitS\\KitService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\KitS\\KitService.cs",
               "RelativeDocumentMoniker": "Services\\KitS\\KitService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\KitS\\KitService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\KitS\\KitService.cs",
               "RelativeToolTip": "Services\\KitS\\KitService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ExRequestS.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\ExRequestSS\\ExRequestS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\ExRequestSS\\ExRequestS.cs",
               "RelativeDocumentMoniker": "Services\\ExRequestSS\\ExRequestS.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\ExRequestSS\\ExRequestS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\ExRequestSS\\ExRequestS.cs",
               "RelativeToolTip": "Services\\ExRequestSS\\ExRequestS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "SampleMethodS.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\SampleMethodSS\\SampleMethodS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\SampleMethodSS\\SampleMethodS.cs",
               "RelativeDocumentMoniker": "Services\\SampleMethodSS\\SampleMethodS.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\SampleMethodSS\\SampleMethodS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\SampleMethodSS\\SampleMethodS.cs",
               "RelativeToolTip": "Services\\SampleMethodSS\\SampleMethodS.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwBkAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ExaminationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Model\\ExaminationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Model\\ExaminationRequest.cs",
               "RelativeDocumentMoniker": "Model\\ExaminationRequest.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Model\\ExaminationRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Model\\ExaminationRequest.cs",
               "RelativeToolTip": "Model\\ExaminationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "AddExRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\DTO\\AddExRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\DTO\\AddExRequestDTO.cs",
               "RelativeDocumentMoniker": "Services\\DTO\\AddExRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\DTO\\AddExRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\DTO\\AddExRequestDTO.cs",
               "RelativeToolTip": "Services\\DTO\\AddExRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "UpdateExRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\DTO\\UpdateExRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\DTO\\UpdateExRequestDTO.cs",
               "RelativeDocumentMoniker": "Services\\DTO\\UpdateExRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\DTO\\UpdateExRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\DTO\\UpdateExRequestDTO.cs",
               "RelativeToolTip": "Services\\DTO\\UpdateExRequestDTO.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "IExRequestS.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\ExRequestSS\\IExRequestS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\ExRequestSS\\IExRequestS.cs",
               "RelativeDocumentMoniker": "Services\\ExRequestSS\\IExRequestS.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SWP391\\BloodlineDNA\\Services\\ExRequestSS\\IExRequestS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BloodlineDNA\\Services\\ExRequestSS\\IExRequestS.cs",
               "RelativeToolTip": "Services\\ExRequestSS\\IExRequestS.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
